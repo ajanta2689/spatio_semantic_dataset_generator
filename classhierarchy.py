@@ -64,6 +64,14 @@ class ClassHierarchy:
 
         return subclasses
 
+    def get_direct_subclasses(self, superclass: URIRef) -> set[URIRef]:
+        subclasses = self._hierarchy.get(superclass)
+
+        if subclasses is None:
+            subclasses = set()
+
+        return subclasses
+
 
 class ClassHierarchyGenerator:
     cls_prefix_str = 'http://ex.com/ont/Cls%03i'
