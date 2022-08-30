@@ -11,5 +11,6 @@ setup(
     description='',
     install_requires=[
         'rdflib==6.2.0',
+        'matplotlib==3.5.3',
     ]
 )
