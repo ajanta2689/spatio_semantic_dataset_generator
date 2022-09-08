@@ -1,7 +1,7 @@
 import random
 
 import matplotlib.pyplot as plt
-from rdflib import Graph, URIRef, RDF, RDFS, Literal
+from rdflib import Graph, URIRef, RDF, RDFS, Literal, XSD
 
 from classhierarchy import ClassHierarchyGenerator
 from gaussian import Gaussian
@@ -12,6 +12,8 @@ GEOMETRY_CLS = URIRef(GEOSPARQL_NS + 'Geometry')
 HAS_GEOMETRY = URIRef(GEOSPARQL_NS + 'hasGeometry')
 AS_WKT = URIRef(GEOSPARQL_NS + 'asWKT')
 WKT_TYPE = URIRef(GEOSPARQL_NS + 'wktLiteral')
+LAT = URIRef('http://www.w3.org/2003/01/geo/wgs84_pos#lat')
+LON = URIRef('http://www.w3.org/2003/01/geo/wgs84_pos#long')
 
 
 def generate(
@@ -103,6 +105,8 @@ def generate(
         g.add((point, RDF.type, FEATURE_CLS))
         g.add((point, RDF.type, cls))
         g.add((point, RDFS.comment, Literal(f'Belongs to cluster {cluster}')))
+        g.add((point, LAT, Literal(lat, None, XSD.double)))
+        g.add((point, LON, Literal(lon, None, XSD.double)))
         g.add((point, HAS_GEOMETRY, geometry))
         g.add(
             (geometry, AS_WKT, Literal(f'POINT({lon} {lat})', None, WKT_TYPE)))
@@ -117,5 +121,4 @@ def generate(
 #     lon_max = 13.8615
 #     lat_min = 50.9815
 #     lat_max = 51.1158
-#
 #     generate(100, 50, 4, lat_min, lat_max, lon_min, lon_max, '/tmp/dataset.nt')
