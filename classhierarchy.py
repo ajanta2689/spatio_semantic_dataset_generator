@@ -1,16 +1,69 @@
 import random
 
-from rdflib import OWL, URIRef
+from asciitree import LeftAligned
+from rdflib import OWL, URIRef, Graph, RDF, RDFS
 
 
 class ClassHierarchy:
-    _hierarchy = {}
     T = OWL.Thing
 
     def __init__(self):
-        self._hierarchy[self.T] = set()
+        self._hierarchy = {self.T: set()}
 
-    def get_random_subclass_of(self, cls: URIRef, include_superclass=False):
+    def __str__(self):
+        hierarchy = self._build_full_dict()
+        la_tree = LeftAligned()
+
+        return la_tree(hierarchy)
+
+    def __dive_further(self, dct: dict, curr_cls: URIRef):
+        """
+        Method used to recursively build a dictionary representing the class
+        hierarchy.
+
+        :param dct: The dictionary to update with additional subclasses while
+            diving deeper down the class hierarchy
+        :param curr_cls: The class in the class hierarchy considered at the
+            current step
+        """
+        subclasses_dict = dct[curr_cls]
+        subclasses = self.get_direct_subclasses(curr_cls)
+
+        for subclass in subclasses:
+            subclasses_dict[subclass] = {}
+
+            self.__dive_further(subclasses_dict, subclass)
+
+    def _build_full_dict(self):
+        d = {self.T: {}}
+
+        self.__dive_further(d, self.T)
+
+        return d
+
+    def as_graph(self) -> Graph:
+        """
+        :return: An RDF graph representation of the class hierarchy
+        """
+        g = Graph()
+
+        for k, v in self._hierarchy.items():
+            g.add((k, RDF.type, OWL.Class))
+            for subclass in v:
+                g.add((subclass, RDFS.subClassOf, k))
+                g.add((subclass, RDF.type, OWL.Class))
+
+        return g
+
+    def get_random_subclass_of(
+            self, cls: URIRef, include_superclass=False) -> URIRef:
+        """
+        :param cls: The class in the class hierarchy of which a random subclass
+            should be drawn.
+        :param include_superclass: If true, the input class cls could also be
+            drawn.
+        :return: A random subclass of the input class cls
+        """
         subclasses: set[URIRef] = \
             self.get_subclasses_of(cls, include_superclass=include_superclass)
 
@@ -48,8 +101,7 @@ class ClassHierarchy:
         return subclasses
 
     def get_subclasses_of(
-            self, superclass: URIRef, include_superclass=False
-    ) -> set[URIRef]:
+            self, superclass: URIRef, include_superclass=False) -> set[URIRef]:
 
         subclasses = self._hierarchy.get(superclass)
 
@@ -120,8 +172,9 @@ class ClassHierarchyGenerator:
         return hierarchy
 
 
-if __name__ == '__main__':
-    generator = ClassHierarchyGenerator(20, 4)
-    class_hierarchy = generator.get_random_hierarchy()
-
-    print(class_hierarchy._hierarchy)
+# call example:
+# if __name__ == '__main__':
+#     generator = ClassHierarchyGenerator(20, 4)
+#     class_hierarchy = generator.get_random_hierarchy()
+#
+#     print(class_hierarchy)
