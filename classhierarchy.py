@@ -55,8 +55,7 @@ class ClassHierarchy:
 
         return g
 
-    def get_random_subclass_of(
-            self, cls: URIRef, include_superclass=False) -> URIRef:
+    def get_random_subclass_of(self, cls: URIRef, include_superclass=False) -> URIRef:
         """
         :param cls: The class in the class hierarchy of which a random subclass
             should be drawn.
@@ -64,8 +63,9 @@ class ClassHierarchy:
             drawn.
         :return: A random subclass of the input class cls
         """
-        subclasses: set[URIRef] = \
-            self.get_subclasses_of(cls, include_superclass=include_superclass)
+        subclasses: set(URIRef) = self.get_subclasses_of(
+            cls, include_superclass=include_superclass
+        )
 
         subclasses_list = list(subclasses)
 
@@ -79,10 +79,10 @@ class ClassHierarchy:
 
         self._hierarchy[superclass].add(subclass)
 
-    def _get_subclasses_of(self, superclasses: set[URIRef]) -> set[URIRef]:
+    def _get_subclasses_of(self, superclasses):
         subclasses = set()
         for superclass in superclasses:
-            _subclasses: set[URIRef] = self._hierarchy.get(superclass)
+            _subclasses = self._hierarchy.get(superclass)
 
             if _subclasses is None:
                 _subclasses = set()
@@ -95,13 +95,11 @@ class ClassHierarchy:
                 subclasses = subclasses.union(_subclasses)
 
                 # add subclasses of subclasses
-                subclasses = subclasses.union(
-                    self._get_subclasses_of(_subclasses))
+                subclasses = subclasses.union(self._get_subclasses_of(_subclasses))
 
         return subclasses
 
-    def get_subclasses_of(
-            self, superclass: URIRef, include_superclass=False) -> set[URIRef]:
+    def get_subclasses_of(self, superclass: URIRef, include_superclass=False):
 
         subclasses = self._hierarchy.get(superclass)
 
@@ -116,7 +114,7 @@ class ClassHierarchy:
 
         return subclasses
 
-    def get_direct_subclasses(self, superclass: URIRef) -> set[URIRef]:
+    def get_direct_subclasses(self, superclass: URIRef):
         subclasses = self._hierarchy.get(superclass)
 
         if subclasses is None:
@@ -126,7 +124,7 @@ class ClassHierarchy:
 
 
 class ClassHierarchyGenerator:
-    cls_prefix_str = 'http://ex.com/ont/Cls%03i'
+    cls_prefix_str = "http://ex.com/ont/Cls%03i"
 
     def __init__(self, num_classes: int, num_clusters: int):
         """
@@ -165,7 +163,8 @@ class ClassHierarchyGenerator:
             cluster_cls = random.choice(cluster_base_classes)
 
             super_cls = hierarchy.get_random_subclass_of(
-                cluster_cls, include_superclass=True)
+                cluster_cls, include_superclass=True
+            )
 
             hierarchy.add_subclass(super_cls, cls)
 
