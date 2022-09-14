@@ -1,0 +1,20 @@
+{
+	"pipeline_param": {
+		"model": "TransE",
+		"training_kwargs": {
+			"num_epochs": 6,
+			"batch_size": 50
+		},
+		"random_seed": 12345,
+		"device": "cpu",
+		"model_kwargs": {
+			"embedding_dim": 2
+		}
+	},
+
+	"tf_split": {
+		"training":0.8,
+		"testing":0.1,
+		"validation":0.1
+	}
+}
