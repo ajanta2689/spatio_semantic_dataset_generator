@@ -49,11 +49,17 @@ def get_tsv_data_prop(nt_filename: str, tsv_filename: str):
 if __name__ == "__main__":
     # Creating new dataset with Data generator
     create_tsv_from_nt(
-        "/dataset/dataset.nt",
-        "dataset.tsv",
+        "/home/asarma/projects/thesis/spatio_semantic_dataset_generator/dataset/dataset.nt",
+        "../dataset/datagen/dataset.tsv",
     )
 
     # Taking out the obj properties
-    get_tsv_obj_prop("dataset.tsv", "dataset_obj_prop.tsv")
+    get_tsv_obj_prop(
+        "../dataset/datagen/dataset.tsv",
+        "/home/asarma/projects/thesis/thesis-big-geo-data-clustering/dataset/dataset_obj_prop.tsv",
+    )
     # Taking out the data properties
-    get_tsv_data_prop("dataset.tsv", "dataset_data_prop.tsv")
+    # get_tsv_data_prop(
+    #     "../dataset/datagen/dataset_4.tsv",
+    #     "/home/asarma/projects/thesis/spatio_semantic_dataset_generator/dataset/datagen/dataset_data_prop_4.tsv",
+    # )

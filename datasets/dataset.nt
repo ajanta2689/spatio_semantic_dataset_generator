@@ -1,0 +1,801 @@
+<http://ex.com/geometry084> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.93536327288632 13.740644619286346)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/geometry024> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.97427872922093 13.738565572940358)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point006> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry006> .
+<http://ex.com/geometry035> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.01532996110742 13.845571184005276)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls009> .
+<http://ex.com/point097> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point062> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.842381169797953"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry071> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.07509720915595 13.833308184028969)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls009> .
+<http://ex.com/point052> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.084415720092146"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point049> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry049> .
+<http://ex.com/ont/Cls037> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls012> .
+<http://ex.com/point000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls038> .
+<http://ex.com/ont/Cls008> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls001> .
+<http://ex.com/point093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/ont/Cls030> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls020> .
+<http://ex.com/point075> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.769258299017656"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls047> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls017> .
+<http://ex.com/point007> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry007> .
+<http://ex.com/point068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point016> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/point087> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry087> .
+<http://ex.com/point023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls027> .
+<http://ex.com/point083> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.08532292780358"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point007> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.990847300197174"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point081> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry081> .
+<http://ex.com/ont/Cls031> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls017> .
+<http://ex.com/geometry011> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.081221266916366 13.618996184672142)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point083> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 2" .
+<http://ex.com/ont/Cls044> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point005> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.63776645780662"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point028> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry028> .
+<http://ex.com/point032> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.85437530408724"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls018> .
+<http://ex.com/ont/Cls034> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls026> .
+<http://ex.com/point038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point031> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.841133293853158"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point060> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.031643362373536"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry018> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.07814852918993 13.754180334696606)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point063> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/point090> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/point095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/geometry050> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.02240828568226 13.835671841362073)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point061> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.01216225908468"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls031> .
+<http://ex.com/point086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls020> .
+<http://ex.com/point038> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.794270715003448"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point069> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 2" .
+<http://ex.com/point012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls029> .
+<http://ex.com/point008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls027> .
+<http://ex.com/point053> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry053> .
+<http://ex.com/ont/Cls050> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls042> .
+<http://ex.com/point058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls023> .
+<http://ex.com/ont/Cls038> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls036> .
+<http://ex.com/geometry038> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.08274002135161 13.794270715003448)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/geometry097> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.03241407669659 13.850059429266848)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/ont/Cls009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls011> .
+<http://ex.com/point006> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.99474648087201"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point099> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.966347019144905"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point063> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.02183727624199"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point093> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.04142337393499"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/geometry059> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.079384228080826 13.818274682000341)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point075> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.97252707790435"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point034> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry034> .
+<http://ex.com/geometry039> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.95418997216148 13.751888146663573)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point077> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/ont/Cls042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point027> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.98331770671524"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/geometry027> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.98331770671524 13.771991135949149)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point082> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry082> .
+<http://ex.com/point084> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.93536327288632"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point016> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry016> .
+<http://ex.com/point088> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry088> .
+<http://ex.com/point057> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.599014856977147"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls045> .
+<http://ex.com/point034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls031> .
+<http://ex.com/point085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls031> .
+<http://ex.com/point091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls027> .
+<http://ex.com/point008> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.94590295454723"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point082> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/point000> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry000> .
+<http://ex.com/ont/Cls018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls049> .
+<http://ex.com/point067> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.841883531649405"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point095> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.036308883140826"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point074> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/point067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/ont/Cls016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/geometry068> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.98558357778717 13.541646328709032)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/ont/Cls008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/geometry066> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.039053581481255 13.592325492854732)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls029> .
+<http://ex.com/point046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/ont/Cls005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/ont/Cls042> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls020> .
+<http://ex.com/point037> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/point009> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.029397650916195"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point004> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.0561975605403"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point046> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry046> .
+<http://ex.com/point066> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry066> .
+<http://ex.com/point035> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/geometry028> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.136168567591234 13.688121865524574)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point095> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.787675903081086"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point061> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.822458035781125"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point085> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry085> .
+<http://ex.com/point053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls049> .
+<http://ex.com/point017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls050> .
+<http://ex.com/point041> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.939268064288406"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls018> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls016> .
+<http://ex.com/point035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls029> .
+<http://ex.com/point013> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry013> .
+<http://ex.com/point027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls018> .
+<http://ex.com/geometry077> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.97039714239294 13.718135980132951)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls022> .
+<http://ex.com/ont/Cls026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point096> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.03231629372439"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point015> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry015> .
+<http://ex.com/point084> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/geometry054> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.074007902917316 13.72195420203027)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/ont/Cls045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/geometry079> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.03616175066018 13.830065161499377)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/geometry046> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.107250974161616 13.910279691823273)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point041> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/point099> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/ont/Cls036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point043> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/point047> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 1" .
+<http://ex.com/point092> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry092> .
+<http://ex.com/point073> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.031589237118276"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls008> .
+<http://ex.com/point021> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.07979616666943"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point072> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.99451605885849"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point024> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.97427872922093"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry082> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.01329918006656 13.861896556212496)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point064> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.00324046986624"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls041> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls026> .
+<http://ex.com/point019> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry019> .
+<http://ex.com/point074> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.843145298271773"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry026> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.0069960108813 13.835639616826263)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls034> .
+<http://ex.com/point053> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/point023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point017> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.100959795435806"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point060> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 1" .
+<http://ex.com/point065> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry065> .
+<http://ex.com/point065> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.835379515020943"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry051> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.08154199740096 13.825461895357579)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/geometry072> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.99451605885849 13.755658908304756)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point059> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry059> .
+<http://ex.com/point086> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.081818033332475"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point078> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/point026> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.835639616826263"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point068> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.98558357778717"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls040> .
+<http://ex.com/point075> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/point082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls017> .
+<http://ex.com/point087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls025> .
+<http://ex.com/geometry006> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.99474648087201 13.852753675548678)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point094> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 2" .
+<http://ex.com/geometry044> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.974499606871646 13.757522187468927)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls046> .
+<http://ex.com/point033> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/geometry001> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.12223929891389 13.680527602848851)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls013> .
+<http://ex.com/point008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point039> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.95418997216148"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point066> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 1" .
+<http://ex.com/point061> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry061> .
+<http://ex.com/ont/Cls002> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.w3.org/2002/07/owl#Thing> .
+<http://ex.com/point089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point072> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/point044> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls044> .
+<http://ex.com/point056> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.96727396863122"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point098> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.739658502767153"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point003> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.00105463355457"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point091> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.735630394346737"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point049> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.11158137515866"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point026> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.0069960108813"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls023> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls017> .
+<http://ex.com/point008> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.726014773051151"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls012> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls005> .
+<http://ex.com/point036> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry036> .
+<http://ex.com/point047> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry047> .
+<http://ex.com/point089> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 1" .
+<http://ex.com/ont/Cls033> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls031> .
+<http://ex.com/ont/Cls041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/geometry083> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.08532292780358 13.84365038856628)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point011> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.618996184672142"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point004> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry004> .
+<http://ex.com/point045> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry045> .
+<http://ex.com/point091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/geometry037> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.03394380328958 13.856918371250597)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/geometry012> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.015409621707114 13.819123530273034)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point021> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 2" .
+<http://ex.com/point045> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/point034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/ont/Cls007> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls004> .
+<http://ex.com/point010> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.692671034141112"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point023> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/ont/Cls007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point018> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.07814852918993"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point052> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 1" .
+<http://ex.com/point055> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.09355619877466"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point057> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry057> .
+<http://ex.com/point091> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry091> .
+<http://ex.com/point069> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry069> .
+<http://ex.com/point050> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry050> .
+<http://ex.com/point060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point086> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.859954260210188"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry020> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.08745329910091 13.794431533104454)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point076> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 1" .
+<http://ex.com/point031> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.00521335848115"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point084> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.740644619286346"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point047> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.618789346777158"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry005> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.09767314836386 13.63776645780662)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point092> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/point011> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 1" .
+<http://ex.com/point045> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.011614126616955"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point063> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.828504487988647"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/ont/Cls009> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls004> .
+<http://ex.com/point052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point019> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.766180840672146"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry076> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.06461429181085 13.633023839183426)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point084> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry084> .
+<http://ex.com/point028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point029> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/point092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls028> .
+<http://ex.com/geometry000> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.03204984144302 13.841057313059636)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls013> .
+<http://ex.com/ont/Cls016> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls003> .
+<http://ex.com/point067> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.08505321267846"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry045> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.011614126616955 13.842878415013079)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point071> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry071> .
+<http://ex.com/ont/Cls028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point038> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 2" .
+<http://ex.com/point079> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.03616175066018"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point020> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry020> .
+<http://ex.com/point058> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.10904529615588"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point039> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.751888146663573"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point028> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 1" .
+<http://ex.com/point042> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry042> .
+<http://ex.com/point053> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.830958787276268"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point079> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry079> .
+<http://ex.com/point019> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 2" .
+<http://ex.com/point049> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 1" .
+<http://ex.com/point095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls011> .
+<http://ex.com/point017> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.861976951135967"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point025> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 1" .
+<http://ex.com/point016> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.93894478145962"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry034> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.14708858485818 13.66168655119886)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls013> .
+<http://ex.com/point081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls021> .
+<http://ex.com/point054> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry054> .
+<http://ex.com/point007> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.738889420010503"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point015> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.835762583447885"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point012> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/ont/Cls005> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls004> .
+<http://ex.com/geometry080> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.08499567830642 13.820295599302836)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point032> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry032> .
+<http://ex.com/point061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls013> .
+<http://ex.com/point079> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.830065161499377"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point060> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.594786268823029"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point071> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 2" .
+<http://ex.com/point002> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/point009> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/point034> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.14708858485818"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls019> .
+<http://ex.com/point052> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry052> .
+<http://ex.com/point048> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry048> .
+<http://ex.com/point021> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry021> .
+<http://ex.com/point001> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.680527602848851"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point098> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.96774383922755"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls028> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls019> .
+<http://ex.com/point055> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.883627786546166"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls041> .
+<http://ex.com/geometry040> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.999501246407036 13.777231057404608)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point081> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/point089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls033> .
+<http://ex.com/point005> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry005> .
+<http://ex.com/point015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls008> .
+<http://ex.com/point029> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry029> .
+<http://ex.com/point077> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.97039714239294"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point053> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.04004407440272"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point066> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.592325492854732"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/ont/Cls013> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls001> .
+<http://ex.com/point022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point044> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/geometry033> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.944852926555086 13.734564778454816)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point048> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.818836813993718"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point023> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.752573288236638"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point046> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 2" .
+<http://ex.com/geometry021> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.07979616666943 13.799098469966474)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls035> .
+<http://ex.com/point041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls016> .
+<http://ex.com/point098> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/point010> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.01259163617423"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point027> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.771991135949149"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point088> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.846155600673734"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point001> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry001> .
+<http://ex.com/point052> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.634960390392914"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry023> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.00985281064415 13.752573288236638)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point032> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 2" .
+<http://ex.com/point050> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/point037> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.856918371250597"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/geometry007> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.990847300197174 13.738889420010503)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/geometry015> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.016179655993255 13.835762583447885)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point057> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 1" .
+<http://ex.com/ont/Cls024> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls011> .
+<http://ex.com/point090> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.04284595997271"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls032> .
+<http://ex.com/point087> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 2" .
+<http://ex.com/point022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls018> .
+<http://ex.com/point020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point044> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls024> .
+<http://ex.com/point054> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.72195420203027"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point091> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/point070> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/point025> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.03259846177146"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls012> .
+<http://ex.com/point044> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.974499606871646"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point065> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.01457757290133"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry049> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.11158137515866 13.651415453827124)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point011> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.081221266916366"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point081> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.98228676587618"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry032> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.091917650329236 13.85437530408724)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point008> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/geometry087> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.08346854142067 13.862671211399899)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/geometry065> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.01457757290133 13.835379515020943)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point083> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls020> .
+<http://ex.com/geometry094> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.08022863906431 13.807763030631355)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point067> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 2" .
+<http://ex.com/point047> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.037467052102905"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry060> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.031643362373536 13.594786268823029)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point097> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.03241407669659"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point038> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.08274002135161"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry052> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.084415720092146 13.634960390392914)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point069> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.09979127007291"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point004> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.627005754777931"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls049> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls029> .
+<http://ex.com/point030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point062> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry062> .
+<http://ex.com/point033> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry033> .
+<http://ex.com/point008> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry008> .
+<http://ex.com/point012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point097> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls008> .
+<http://ex.com/point090> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.794678377284436"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point015> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.016179655993255"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry074> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.00534325654099 13.843145298271773)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/ont/Cls048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point017> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry017> .
+<http://ex.com/point099> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry099> .
+<http://ex.com/point032> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.091917650329236"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls033> .
+<http://ex.com/ont/Cls019> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls016> .
+<http://ex.com/point072> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.755658908304756"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point088> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/geometry043> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.02876468757823 13.841819576148472)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point078> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.853875182962277"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls020> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls005> .
+<http://ex.com/point069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls032> .
+<http://ex.com/ont/Cls047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point062> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 2" .
+<http://ex.com/geometry025> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.03259846177146 13.62665052551911)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/ont/Cls040> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls003> .
+<http://ex.com/ont/Cls050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point073> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.839110496394898"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry062> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.096254480834055 13.842381169797953)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point042> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 1" .
+<http://ex.com/point086> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry086> .
+<http://ex.com/point048> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.01545200184051"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/ont/Cls019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point018> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 2" .
+<http://ex.com/point046> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.107250974161616"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point049> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.651415453827124"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point077> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry077> .
+<http://ex.com/geometry096> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.03231629372439 13.821591658999942)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point004> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 1" .
+<http://ex.com/ont/Cls013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point076> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.06461429181085"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point095> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/geometry098> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.96774383922755 13.739658502767153)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point038> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry038> .
+<http://ex.com/point041> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry041> .
+<http://ex.com/point047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls034> .
+<http://ex.com/point005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls041> .
+<http://ex.com/point037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls014> .
+<http://ex.com/point074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point017> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 2" .
+<http://ex.com/point056> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/point051> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 2" .
+<http://ex.com/ont/Cls004> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.w3.org/2002/07/owl#Thing> .
+<http://ex.com/point096> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.821591658999942"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point059> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 2" .
+<http://ex.com/point090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls047> .
+<http://ex.com/point007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls015> .
+<http://ex.com/point021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls050> .
+<http://ex.com/point004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point091> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.96333226118759"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point080> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.820295599302836"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point045> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.842878415013079"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point069> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.846263693365037"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point076> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry076> .
+<http://ex.com/point010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point013> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 2" .
+<http://ex.com/point034> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 1" .
+<http://ex.com/point085> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 1" .
+<http://ex.com/geometry085> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.0318723961554 13.587508926022526)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point023> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry023> .
+<http://ex.com/point002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point040> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.777231057404608"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point074> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry074> .
+<http://ex.com/point092> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.97852185646844"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry042> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.19080984749575 13.706700222519066)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls026> .
+<http://ex.com/point046> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.910279691823273"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/ont/Cls011> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls006> .
+<http://ex.com/point028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls017> .
+<http://ex.com/point006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls029> .
+<http://ex.com/point013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls012> .
+<http://ex.com/point022> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/point030> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.631474752571878"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point034> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.66168655119886"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls022> .
+<http://ex.com/point019> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.082261381058984"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls035> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls034> .
+<http://ex.com/geometry048> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.01545200184051 13.818836813993718)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/geometry009> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.029397650916195 13.855842031241068)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point048> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/ont/Cls032> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls012> .
+<http://ex.com/geometry089> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.17803435394134 13.688552693113657)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point024> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/point085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point065> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/point070> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.83702537993002"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point086> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 2" .
+<http://ex.com/point027> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/ont/Cls045> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls036> .
+<http://ex.com/point014> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry014> .
+<http://ex.com/point025> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.62665052551911"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point027> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry027> .
+<http://ex.com/point079> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/ont/Cls006> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls003> .
+<http://ex.com/point054> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 2" .
+<http://ex.com/point035> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.01532996110742"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point094> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.807763030631355"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry067> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.08505321267846 13.841883531649405)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point012> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.819123530273034"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/ont/Cls017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point058> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.629113654327693"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point000> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.841057313059636"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry064> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.00324046986624 13.798874241749576)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point044> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry044> .
+<http://ex.com/point054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls012> .
+<http://ex.com/point080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point094> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.08022863906431"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point002> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry002> .
+<http://ex.com/point087> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.08346854142067"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point006> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/ont/Cls001> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.w3.org/2002/07/owl#Thing> .
+<http://ex.com/point030> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry030> .
+<http://ex.com/point082> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.01329918006656"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point093> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry093> .
+<http://ex.com/point098> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry098> .
+<http://ex.com/point081> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.73502103304917"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point028> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.688121865524574"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry090> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.04284595997271 13.794678377284436)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/geometry091> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.96333226118759 13.735630394346737)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls019> .
+<http://ex.com/point021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/geometry030> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.07215270880749 13.631474752571878)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point012> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.015409621707114"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls034> .
+<http://ex.com/point088> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.012085475739106"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls021> .
+<http://ex.com/point065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point000> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.03204984144302"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point058> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry058> .
+<http://ex.com/ont/Cls020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point058> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 1" .
+<http://ex.com/point070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls036> .
+<http://ex.com/point079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls045> .
+<http://ex.com/point087> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.862671211399899"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point084> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/geometry093> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.04142337393499 13.5877401533672)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls030> .
+<http://ex.com/point094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/ont/Cls015> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls003> .
+<http://ex.com/ont/Cls038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point050> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.02240828568226"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point071> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.833308184028969"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point014> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/point041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/geometry014> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.028706468807044 13.851151519546992)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point043> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.02876468757823"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point022> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry022> .
+<http://ex.com/point012> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry012> .
+<http://ex.com/point023> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.00985281064415"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls010> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls009> .
+<http://ex.com/point064> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry064> .
+<http://ex.com/ont/Cls049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point036> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.102524088702815"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry010> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.01259163617423 13.692671034141112)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/ont/Cls030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point024> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.738565572940358"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls039> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls007> .
+<http://ex.com/point016> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.71889563823262"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/ont/Cls029> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls008> .
+<http://ex.com/point024> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry024> .
+<http://ex.com/point095> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry095> .
+<http://ex.com/point003> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/ont/Cls035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/ont/Cls015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point040> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry040> .
+<http://ex.com/point049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls017> .
+<http://ex.com/point051> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.825461895357579"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point085> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.0318723961554"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry019> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.082261381058984 13.766180840672146)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point083> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls009> .
+<http://ex.com/point048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point022> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.733101796800012"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point025> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry025> .
+<http://ex.com/point098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls046> .
+<http://ex.com/ont/Cls021> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls003> .
+<http://ex.com/point031> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry031> .
+<http://ex.com/point040> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.999501246407036"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point092> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.744815135078605"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls013> .
+<http://ex.com/point057> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.06649978975742"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point009> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.855842031241068"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point090> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry090> .
+<http://ex.com/point096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls029> .
+<http://ex.com/point043> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.841819576148472"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point010> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/point079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point096> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/point048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls038> .
+<http://ex.com/point033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/ont/Cls022> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls012> .
+<http://ex.com/point029> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.01388019393061"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/ont/Cls026> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls023> .
+<http://ex.com/geometry008> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.94590295454723 13.726014773051151)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls030> .
+<http://ex.com/point020> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 2" .
+<http://ex.com/point071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls009> .
+<http://ex.com/point007> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://www.w3.org/2002/07/owl#Thing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point070> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry070> .
+<http://ex.com/point094> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry094> .
+<http://ex.com/point020> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.794431533104454"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point099> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls027> .
+<http://ex.com/point059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls043> .
+<http://ex.com/point033> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.944852926555086"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point066> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.039053581481255"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls025> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls009> .
+<http://ex.com/ont/Cls010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point030> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 1" .
+<http://ex.com/ont/Cls023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/ont/Cls043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls015> .
+<http://ex.com/point001> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.12223929891389"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point044> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.757522187468927"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry086> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.081818033332475 13.859954260210188)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point078> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.02472866036584"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point037> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry037> .
+<http://ex.com/geometry099> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.966347019144905 13.807634247626538)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point073> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/point015> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/point088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls036> .
+<http://ex.com/point051> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry051> .
+<http://ex.com/point060> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry060> .
+<http://ex.com/point061> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/ont/Cls032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point020> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.08745329910091"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point051> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.08154199740096"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point059> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.818274682000341"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point013> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.84614930964317"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point077> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.718135980132951"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry078> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.02472866036584 13.853875182962277)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/ont/Cls048> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls007> .
+<http://ex.com/point040> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/point014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/geometry029> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.01388019393061 13.83253863396993)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point063> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry063> .
+<http://ex.com/geometry041> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.939268064288406 13.718726536356066)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/ont/Cls003> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://www.w3.org/2002/07/owl#Thing> .
+<http://ex.com/point060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls031> .
+<http://ex.com/point039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point039> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry039> .
+<http://ex.com/point056> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.798189308998065"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry070> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.01940891560487 13.83702537993002)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point084> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls027> .
+<http://ex.com/point064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls040> .
+<http://ex.com/point002> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.853849497802695"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry053> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.04004407440272 13.830958787276268)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point064> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/geometry047> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.037467052102905 13.618789346777158)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point076> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.633023839183426"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls047> .
+<http://ex.com/geometry056> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.96727396863122 13.798189308998065)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/geometry002> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.02890553738458 13.853849497802695)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point021> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.799098469966474"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point036> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 1" .
+<http://ex.com/point040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls028> .
+<http://ex.com/point072> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry072> .
+<http://ex.com/geometry088> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.012085475739106 13.846155600673734)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point097> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.850059429266848"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point041> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.718726536356066"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls038> .
+<http://ex.com/point042> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.19080984749575"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls031> .
+<http://ex.com/point097> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry097> .
+<http://ex.com/point092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/geometry069> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.09979127007291 13.846263693365037)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point080> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry080> .
+<http://ex.com/point070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/geometry003> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.00105463355457 13.716965141476656)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls045> .
+<http://ex.com/point028> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.136168567591234"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry081> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.98228676587618 13.73502103304917)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/geometry092> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.97852185646844 13.744815135078605)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point026> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/point003> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry003> .
+<http://ex.com/point026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls049> .
+<http://ex.com/point085> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.587508926022526"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point031> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/point036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls029> .
+<http://ex.com/point033> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.734564778454816"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls017> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls002> .
+<http://ex.com/point000> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/point018> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.754180334696606"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point080> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.08499567830642"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point002> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.02890553738458"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry031> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.00521335848115 13.841133293853158)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/ont/Cls034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point056> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry056> .
+<http://ex.com/point075> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry075> .
+<http://ex.com/ont/Cls044> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls003> .
+<http://ex.com/geometry022> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.96802303653806 13.733101796800012)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point001> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 1" .
+<http://ex.com/point013> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.090676312381134"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point097> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 0" .
+<http://ex.com/geometry095> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.036308883140826 13.787675903081086)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point096> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry096> .
+<http://ex.com/point073> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry073> .
+<http://ex.com/point080> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 2" .
+<http://ex.com/point006> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.852753675548678"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point083> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.84365038856628"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point010> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry010> .
+<http://ex.com/point071> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.07509720915595"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry075> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.97252707790435 13.769258299017656)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls015> .
+<http://ex.com/point014> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.851151519546992"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point030> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.07215270880749"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point054> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.074007902917316"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point068> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.541646328709032"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point026> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry026> .
+<http://ex.com/point043> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry043> .
+<http://ex.com/point047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls030> .
+<http://ex.com/point025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls031> .
+<http://ex.com/geometry016> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(50.93894478145962 13.71889563823262)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point099> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.807634247626538"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point005> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 1" .
+<http://ex.com/point042> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.706700222519066"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point022> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "50.96802303653806"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point082> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.861896556212496"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point083> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry083> .
+<http://ex.com/point014> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.028706468807044"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/geometry061> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.01216225908468 13.822458035781125)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point062> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.096254480834055"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls008> .
+<http://ex.com/point036> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.654003220281105"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point093> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.5877401533672"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point050> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.835671841362073"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls041> .
+<http://ex.com/point009> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry009> .
+<http://ex.com/point070> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.01940891560487"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/geometry057> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.06649978975742 13.599014856977147)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point074> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.00534325654099"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls046> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls027> .
+<http://ex.com/point089> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry089> .
+<http://ex.com/point018> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry018> .
+<http://ex.com/point017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point035> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry035> .
+<http://ex.com/point089> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.688552693113657"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point029> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.83253863396993"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/ont/Cls025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/geometry063> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.02183727624199 13.828504487988647)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/geometry058> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.10904529615588 13.629113654327693)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point055> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 2" .
+<http://ex.com/point003> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.716965141476656"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point005> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.09767314836386"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point035> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.845571184005276"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point037> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.03394380328958"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls013> .
+<http://ex.com/point098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point099> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/geometry036> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.102524088702815 13.654003220281105)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/geometry013> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.090676312381134 13.84614930964317)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point089> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.17803435394134"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls039> .
+<http://ex.com/geometry055> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.09355619877466 13.883627786546166)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/ont/Cls027> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls011> .
+<http://ex.com/ont/Cls043> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls004> .
+<http://ex.com/ont/Cls029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point064> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "13.798874241749576"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point011> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry011> .
+<http://ex.com/point026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/ont/Cls036> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls029> .
+<http://ex.com/point002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls013> .
+<http://ex.com/point009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls013> .
+<http://ex.com/point020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://ex.com/ont/Cls043> .
+<http://ex.com/ont/Cls004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://ex.com/point068> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry068> .
+<http://ex.com/point093> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 1" .
+<http://ex.com/geometry017> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.100959795435806 13.861976951135967)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/ont/Cls014> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://ex.com/ont/Cls001> .
+<http://ex.com/point031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point059> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "51.079384228080826"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://ex.com/point039> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 3" .
+<http://ex.com/point068> <http://www.w3.org/2000/01/rdf-schema#comment> "Belongs to cluster 1" .
+<http://ex.com/geometry004> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.0561975605403 13.627005754777931)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point055> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry055> .
+<http://ex.com/point067> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry067> .
+<http://ex.com/geometry073> <http://www.opengis.net/ont/geosparql#asWKT> "POINT(51.031589237118276 13.839110496394898)"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://ex.com/point078> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://ex.com/geometry078> .
+<http://ex.com/point011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .
+<http://ex.com/point061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Feature> .

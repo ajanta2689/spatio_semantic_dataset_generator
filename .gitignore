@@ -131,6 +131,10 @@ dmypy.json
 # IDE stuff
 
 .idea/
+
+
 /dataset/
 /kge/results/
 /kge/dataset.json
+*.txt
+*.png

@@ -71,11 +71,15 @@ def create_json_from_rdf(filename):
 
 if __name__ == "__main__":
     node_types, node_locations, cluster_labels = create_json_from_rdf(
-        "dataset/dataset.tsv"
+        "dataset/datagen/dataset_4.tsv"
     )
-    dump_json(filename="dataset/dataset_type.json", data_as_json=node_types)
     dump_json(
-        filename="dataset/dataset_cluster_label.json", data_as_json=cluster_labels
+        filename="../thesis-big-geo-data-clustering/dataset/evaluation/dataset_type_4.json",
+        data_as_json=node_types,
+    )
+    dump_json(
+        filename="../thesis-big-geo-data-clustering/dataset/evaluation/dataset_cluster_label_4.json",
+        data_as_json=cluster_labels,
     )
     # Further processed the node_locations to have the values of the map as (lat, long) pair
     node_loc_json = defaultdict(tuple)
@@ -85,4 +89,7 @@ if __name__ == "__main__":
         (lat_val, long_val) = (value["lat"], value["long"])
         if key in node_types.keys():
             node_loc_json[key] = (lat_val, long_val)
-    dump_json(filename="dataset/dataset_loc.json", data_as_json=node_loc_json)
+    dump_json(
+        filename="../thesis-big-geo-data-clustering/dataset/evaluation/dataset_loc_4.json",
+        data_as_json=node_loc_json,
+    )

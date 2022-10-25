@@ -2,7 +2,7 @@ import os
 import pickle
 import json
 import torch
-from pykeen.triples import TriplesFactory
+from pykeen.triples import TriplesFactory, TriplesNumericLiteralsFactory
 from pykeen.pipeline import pipeline
 
 
@@ -34,25 +34,34 @@ class KGEmbedding:
         # Embeddings
         model = torch.load(results_location + "trained_model.pkl")
         entity_embeddings = model.entity_representations[0]
+        relation_embeddings = model.relation_representations[0]
 
         entity_embedding = {}
+        relation_embedding = {}
         for entity in self._tf.entity_to_id.keys():
             if "<http://ex.com/point" in entity:
-                entity_embedding[entity] = list(
+                actual_embedding = list(
                     entity_embeddings(torch.as_tensor(self._tf.entity_to_id[entity]))
                     .detach()
                     .numpy()
                 )
+                # if len(actual_embedding) >= 2:
+                if False:
+                    entity_embedding[entity] = [abs(vec) for vec in actual_embedding]
+                else:
+                    entity_embedding[entity] = actual_embedding
+        print(entity_embedding)
         return entity_embedding
 
 
 if __name__ == "__main__":
     kge_obj = KGEmbedding(
-        param_file_path="param_transE.json",
-        data_file_path="/home/asarma/projects/thesis/spatio_semantic_dataset_generator/dataset/datagen/dataset_obj_prop_4.tsv",
+        param_file_path="param_rotatE.json",
+        data_file_path="/home/asarma/projects/thesis/thesis-big-geo-data-clustering/dataset/dataset_obj_prop.tsv",
     )
     output_entity_emb = kge_obj.train_embedding()
     with open(
-        "../../thesis-big-geo-data-clustering/dataset/evaluation/dataset_4.json", "w"
+        "../../thesis-big-geo-data-clustering/dataset/datagen_dataset_emb_rotatE.json",
+        "w",
     ) as f:
         json.dump(str(output_entity_emb), f)

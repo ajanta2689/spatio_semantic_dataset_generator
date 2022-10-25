@@ -82,7 +82,7 @@ def generate(
             plt.plot(lat, lon, "o", color=color)
 
         plt.show()
-        fig_cluster.savefig("clustered_points.png")
+        # fig_cluster.savefig("dataset/datagen/num.png")
         answer = input("Keep this random dataset? (y/n)").lower()
 
         if answer == "y":
@@ -118,4 +118,4 @@ if __name__ == "__main__":
     lon_max = 13.8615
     lat_min = 50.9815
     lat_max = 51.1158
-    generate(100, 50, 4, lat_min, lat_max, lon_min, lon_max, "dataset/dataset.nt")
+    generate(100, 50, 4, lat_min, lat_max, lon_min, lon_max, "datasets/dataset.nt")
